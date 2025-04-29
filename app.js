@@ -1,1 +1,1 @@
-alert('Boas-vindas ao jogo do Número Secreto');
+alert("Boas-vindas ao jogo do Número Secreto");
